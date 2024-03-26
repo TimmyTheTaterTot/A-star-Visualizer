@@ -2,7 +2,6 @@ import pygame
 import math
 import random as rand
 from Space import Space
-from threading import Thread
 
 white = (255, 255, 255)
 black = (0, 0, 0)
